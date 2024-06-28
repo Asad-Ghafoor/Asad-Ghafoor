@@ -193,32 +193,32 @@ I have worked on coding and business start-up projects related to blockchain and
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{JunaidLatif4}/count.svg" alt="JunaidLatif4 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Asad-Ghafoor}/count.svg" alt="Asad-Ghafoor :: Visitor's Count" /></p>
 
 <h4 align="center">GitHub Statistics:</h4>
 <p align="center">
-<a href="https://github.com/JunaidLatif4">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JunaidLatif4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JunaidLatif4&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Asad-Ghafoor">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Asad-Ghafoor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asad-Ghafoor&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=JunaidLatif4&theme=radical&hide_border=true)
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=Asad-Ghafoor&theme=radical&hide_border=true)
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JunaidLatif4&show_icons=true&include_all_commits=true&theme=radical" alt="JunaidLatif4's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidLatif4&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asad-Ghafoor&show_icons=true&include_all_commits=true&theme=radical" alt="Asad-Ghafoor's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-Ghafoor&layout=compact&theme=radical" />
 
 
 
 <p align="centre">
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JunaidLatif4&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Asad-Ghafoor&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 </p>
 
 
 ##  📊 Stats
 
-[![Metrics](https://metrics.lecoq.io/JunaidLatif4?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/JunaidLatif4)
+[![Metrics](https://metrics.lecoq.io/Asad-Ghafoor?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/Asad-Ghafoor)
 
 
 <div  align="center">
