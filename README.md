@@ -17,45 +17,8 @@
 <ul>
     <li>✓ Smart Contract Development
         <ul>
-            <li>ERC20, ERC721, ERC721A, ERC1155, BEP20, BEP721 Standards, Solana, EOSIO, WAX networks.</li>
-            <li>Contract Test and Audit in development environment by using Truffle, Hardhat.</li>
-            <li>Anti-Bot, Whitelist functions integration for Token, NFT contracts.</li>
-            <li>Wrap Token Contract development from BTC, NDAU, Doge, etc.</li>
-        </ul>
-    </li>
-    <li>✓ Smart Contract Audits
-        <ul>
-            <li>Code checking line by line.</li>
-            <li>High/Middle/Low level severity Audit test on the testnet, devnet.</li>
-            <li>Provide audit with functional example.</li>
-        </ul>
-    </li>
-    <li>✓ DeFi/DApp Development
-        <ul>
-            <li>Forking DEX tools like Uniswap, Sushiswap, Pancakeswap, Rubic with special requirement.</li>
-            <li>Crypto Escrow System development (Frontend: React, Backend: Laravel, Python/Flask, Escrow Contract development).</li>
-            <li>ICO & IDO, Token airdrop & presale service platform with custom supply, Liquidity, whitelist.</li>
-            <li>Wallet connection using web3.js or ether.js.</li>
-        </ul>
-    </li>
-    <li>✓ NFT minting & staking, marketplace Development
-        <ul>
-            <li>Minting, Staking Contract on ERC721, ERC1155 standards on Ethereum, Polygon, Avalanche, BSC, Harmony, Solana network.</li>
-            <li>P2E (Play to Earn) contract development.</li>
-        </ul>
-    </li>
-    <li>✓ Cross-Chain-Bridge Development
-        <ul>
-            <li>Child Token, Bridge Contract development.</li>
-            <li>Relay service integration like Moralis, Chainlink, Chainstack.</li>
-            <li>Well-made Cross-Bridge DApp development using React.js, web3.js, MongoDB.</li>
-        </ul>
-    </li>
-    <li>✓ CEX Development
-        <ul>
-            <li>Spot & Margin Trading option, Multi-Chain Support.</li>
-            <li>Fiat Withdraw, Deposit function by using PayPal, Stripe, CoinPayment, Perfect Money API integration.</li>
-            <li>Well-Structured DB Design.</li>
+            <li>Design Landing Pgaes of websites.</li>
+            <li>Set backend and front End Funactionalitis on them </li>
         </ul>
     </li>
 </ul>
@@ -79,33 +42,6 @@
         </ul>
     </li>
 </ul>
-
-<h2>[WEB & MOBILE]</h2>
-<p>I have 6 years of experience in Android/iOS applications integrating with backend. Over all these years I accomplished amazing 20+ mobile projects successfully.</p>
-
-<ol>
-    <li>Native: iOS, Android (Objective-C, Swift, Java, Kotlin), JNI, NDK (C/C++)
-        <ul>
-            <li>Hybrid: React Native, Ionic (HTML5, jQuery Mobile).</li>
-        </ul>
-    </li>
-    <li>Web service: XML/JSON, REST/SOAP.</li>
-    <li>Device, Kit: Bluetooth Low Energy (BLE), iBeacon, NFC, credit card reader.</li>
-    <li>Cloud backend: Firebase, Amazon S3 EC2 AWS.</li>
-    <li>Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC.</li>
-    <li>Media Streaming: Wowza, SoundCloud, Red5, Icecast.</li>
-    <li>Video/audio/image processing: OpenCV, CoreAudio, AVFoundation
-        <ul>
-            <li>VOIP, Cloud Communication: Twilio, Heroku, Tokbox.</li>
-        </ul>
-    </li>
-    <li>Speech recognition, text-to-speech, Siri, OpenEar.</li>
-    <li>HTML5, PHP, Javascript and their frameworks.</li>
-    <li>MySQL, SQLite, PostgreSQL, MongoDB, GraphQL.</li>
-    <li>Facebook, Twitter, LinkedIn, Instagram, YouTube, Pinterest, Vimeo.</li>
-    <li>Google Map, Foursquare, Geolocation, GPS, Open Street Maps.</li>
-    <li>JIRA, Trello, GitHub, BitBucket, GitLab.</li>
-</ol>
 
 
 ### - Languages and Tools...
