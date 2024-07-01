@@ -77,7 +77,12 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Asad-Ghafoor}/count.svg" alt="Asad-Ghafoor :: Visitor's Count" /></p>
 
-
+<h4 align="center">GitHub Statistics:</h4>
+<p align="center">
+<a href="https://github.com/Asad-Ghafoor">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Asad-Ghafoor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asad-Ghafoor&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 
    ![](https://github-readme-streak-stats.herokuapp.com/?user=Asad-Ghafoor&theme=radical&hide_border=true)
 </p>
