@@ -4,158 +4,108 @@
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+software+developer;I+am+blockchain+Developer...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+software+developer;I+am+mern stack+Developer...;)](https://git.io/typing-svg)
   
   
   
   
-</h1>
+<h1>Full Stack and MERN Stack Development</h1>
 
-<h2>[BLOCKCHAIN]</h2>
-I am an experienced developer with a solid background in software development, cryptocurrencies and blockchian. 
-I have worked on coding and business start-up projects related to blockchain and crypto-assets/coins.
-<br>
-   &nbsp; &nbsp;    ✓ Smart Contract Development
-   <br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - ERC20, ERC721, ERC721A, ERC1155, BEP20, BEP721 Standards, Solana, EOSIO, WAX networks.
- <br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Contract Test and Audit in development environment by using Truffle, Hardhat
- <br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Anti-Bot, Whitelist functions integration for Token, NFT contracts
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Wrap Token Contract development from BTC, NDAU, Doge, etc.
+<h2>[MERN Stack]</h2>
+<p>I am an experienced developer with a solid background in software development, using MERN stack. I have worked on coding and business start-up projects related to the MERN stack.</p>
 
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
-✓ Smart Contract Audits
+<ul>
+    <li>✓ Smart Contract Development
+        <ul>
+            <li>ERC20, ERC721, ERC721A, ERC1155, BEP20, BEP721 Standards, Solana, EOSIO, WAX networks.</li>
+            <li>Contract Test and Audit in development environment by using Truffle, Hardhat.</li>
+            <li>Anti-Bot, Whitelist functions integration for Token, NFT contracts.</li>
+            <li>Wrap Token Contract development from BTC, NDAU, Doge, etc.</li>
+        </ul>
+    </li>
+    <li>✓ Smart Contract Audits
+        <ul>
+            <li>Code checking line by line.</li>
+            <li>High/Middle/Low level severity Audit test on the testnet, devnet.</li>
+            <li>Provide audit with functional example.</li>
+        </ul>
+    </li>
+    <li>✓ DeFi/DApp Development
+        <ul>
+            <li>Forking DEX tools like Uniswap, Sushiswap, Pancakeswap, Rubic with special requirement.</li>
+            <li>Crypto Escrow System development (Frontend: React, Backend: Laravel, Python/Flask, Escrow Contract development).</li>
+            <li>ICO & IDO, Token airdrop & presale service platform with custom supply, Liquidity, whitelist.</li>
+            <li>Wallet connection using web3.js or ether.js.</li>
+        </ul>
+    </li>
+    <li>✓ NFT minting & staking, marketplace Development
+        <ul>
+            <li>Minting, Staking Contract on ERC721, ERC1155 standards on Ethereum, Polygon, Avalanche, BSC, Harmony, Solana network.</li>
+            <li>P2E (Play to Earn) contract development.</li>
+        </ul>
+    </li>
+    <li>✓ Cross-Chain-Bridge Development
+        <ul>
+            <li>Child Token, Bridge Contract development.</li>
+            <li>Relay service integration like Moralis, Chainlink, Chainstack.</li>
+            <li>Well-made Cross-Bridge DApp development using React.js, web3.js, MongoDB.</li>
+        </ul>
+    </li>
+    <li>✓ CEX Development
+        <ul>
+            <li>Spot & Margin Trading option, Multi-Chain Support.</li>
+            <li>Fiat Withdraw, Deposit function by using PayPal, Stripe, CoinPayment, Perfect Money API integration.</li>
+            <li>Well-Structured DB Design.</li>
+        </ul>
+    </li>
+</ul>
 
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Code checking line by line
+<h2>[Full Stack Development]</h2>
+<p>I have extensive experience in full stack development, working with various technologies and frameworks to build robust applications.</p>
 
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - High/Middle/Low level severity Audit test on the testnet, devnet
+<ul>
+    <li>✓ React, Node.js, Express
+        <ul>
+            <li>Building scalable and performant web applications.</li>
+            <li>Creating RESTful APIs and integrating with frontend frameworks.</li>
+            <li>Utilizing modern libraries and tools like Redux, Webpack, Babel.</li>
+        </ul>
+    </li>
+    <li>✓ Python Flask
+        <ul>
+            <li>Developing backend services and APIs.</li>
+            <li>Fast automation and scripting for various tasks.</li>
+            <li>Integrating with databases and third-party services.</li>
+        </ul>
+    </li>
+</ul>
 
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Provide audit with functional example
+<h2>[WEB & MOBILE]</h2>
+<p>I have 6 years of experience in Android/iOS applications integrating with backend. Over all these years I accomplished amazing 20+ mobile projects successfully.</p>
 
-<br>
-    &nbsp; &nbsp; 
-✓ Defi/ DApp Development
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Forking Dex tools like Uniswap, Sushiswap, Pancakeswap, Rubic with special requirement
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Crypto Escrow System development (Frontend: React, Backend: Laravel, Python/Flask, Escrow Contract development)
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - ICO & IDO, Token airdrop & presale service platform with custom supply, Liquidity, whitelist
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Wallet connection using web3.js or ether.js
-
-<br>
-    &nbsp; &nbsp;  
-✓ NFT minting & staking, marketplace Development
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Minting, Staking Contract on ERC721, ERC1155 standards on Ethereum, Polygon, Avalanche, BSC, Harmony, Solana network
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- -  P2E (Play to Earn) contract development
-
-<br>
-    &nbsp; &nbsp; 
-✓ Cross-Chain-Bridge Development.
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Child Token, Bridge Contract development
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Relay service integration like Moralis, Chainlink, Chainstack
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Well-made Cross-Bridge DApp development using react.js, web3.js, MongoDB
-
-<br>
-    &nbsp; &nbsp;  
- ✓ CEX Development 
- 
- <br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Spot & Margin Trading option, Multi-Chain Support
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Fiat Withdraw, Deposit function by using PayPal, Stripe, CoinPayment, Perfect Money Api integration
-
-<br>
-    &nbsp; &nbsp;  &nbsp; &nbsp; 
- - Well-Structured DB Design
-
-<br>
-    &nbsp; &nbsp; 
-
-<h2>[WEB & MOBILE]</h2>  
- I have 6 years of experience  in Andorid/iOS applications integrating with backend. Over all these years I accomplished amazing 20 + mobile projects successfully.
-
- <br>
-    &nbsp; &nbsp;    1. Native: iOS, Android (Objective-C, Swift, Java, Kotlin), JNI, NDK (C/C++)
-         Hybrid: React Native, Ionic (HTML5, jQuery Mobile)
-    
- <br>
-    &nbsp; &nbsp;     2.  Web service: XML/JSON, REST/SOAP
-  
-<br>
-   &nbsp; &nbsp;       3. Device, Kit: Bluetooth Low Energy (BLE), iBeacon, NFC, credit card reader
- 
- <br>
-    &nbsp; &nbsp;      4.  Cloud backend: Firebase, Amazon S3 EC2 AWS
-   
- <br>
-    &nbsp; &nbsp;    5. Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC
- 
-  <br>
-     &nbsp; &nbsp;     6.  Media Streaming: Wowza, SoundCloud, Red5, Icecast
-
- <br>
-    &nbsp; &nbsp;       7. Video/audio/image processing: OpenCV, CoreAudio, AVFoundation   - VOIP, Cloud 
-	Communication: Twillio, Heroku, Tokbox
-
- <br>
-    &nbsp; &nbsp;    8. Speech recognition, text-to-speech, Siri, OpenEar
-  
- <br>
-    &nbsp; &nbsp;     9. HTML5, PHP, Javascript and their frameworks
- 
- <br>
-    &nbsp; &nbsp;     10.  MySQL, SQLite, PostgreSQL, MongoDB, GraphQL
-
- <br>
-    &nbsp; &nbsp;    11. Facebook, Twitter, Linkedin, Instagram, Youtube, Pinterest, Vimeo
-  
- <br>
-    &nbsp; &nbsp;     12. Google Map, Foursquare, Geolocation, GPS, Open Street Maps
- 
-
- <br>    &nbsp; &nbsp;     13. JIRA, Trello, Github, BitBucket, Gitlab
-
+<ol>
+    <li>Native: iOS, Android (Objective-C, Swift, Java, Kotlin), JNI, NDK (C/C++)
+        <ul>
+            <li>Hybrid: React Native, Ionic (HTML5, jQuery Mobile).</li>
+        </ul>
+    </li>
+    <li>Web service: XML/JSON, REST/SOAP.</li>
+    <li>Device, Kit: Bluetooth Low Energy (BLE), iBeacon, NFC, credit card reader.</li>
+    <li>Cloud backend: Firebase, Amazon S3 EC2 AWS.</li>
+    <li>Chat & Messaging Engine: XMPP, OpenFire, OpenTok WebRTC.</li>
+    <li>Media Streaming: Wowza, SoundCloud, Red5, Icecast.</li>
+    <li>Video/audio/image processing: OpenCV, CoreAudio, AVFoundation
+        <ul>
+            <li>VOIP, Cloud Communication: Twilio, Heroku, Tokbox.</li>
+        </ul>
+    </li>
+    <li>Speech recognition, text-to-speech, Siri, OpenEar.</li>
+    <li>HTML5, PHP, Javascript and their frameworks.</li>
+    <li>MySQL, SQLite, PostgreSQL, MongoDB, GraphQL.</li>
+    <li>Facebook, Twitter, LinkedIn, Instagram, YouTube, Pinterest, Vimeo.</li>
+    <li>Google Map, Foursquare, Geolocation, GPS, Open Street Maps.</li>
+    <li>JIRA, Trello, GitHub, BitBucket, GitLab.</li>
+</ol>
 
 
 ### - Languages and Tools...
