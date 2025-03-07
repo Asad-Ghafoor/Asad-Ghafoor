@@ -1,117 +1,48 @@
-<!-- ![Eana Hufwe](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg) -->
+![Eana Hufwe](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
 
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+a+Senior+Software+Developer;Cloud+Architect+and+MERN+Stack+Developer...;Expert+in+LLM,+RAG,+Langchain...;Enhancing+User+Experiences)](https://git.io/typing-svg)
 
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
+## 🚀 About Me
+I am a **Senior Software Developer** and **Cloud Architect**, specializing in **MERN Stack Development**, **Python**, and **LLM-based applications**. My expertise lies in designing scalable solutions, leveraging AI and automation to enhance user experiences, and driving business growth through innovative technology.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+software+developer;I+am+mern+stack+Developer...;)](https://git.io/typing-svg)
-  
-  
-  
-  
-<h1>Full Stack and MERN Stack Development</h1>
+### 🔥 Technical Expertise
+- **MERN Stack Development** (MongoDB, Express.js, React, Node.js)
+- **Cloud Architecting** (AWS, Azure, Docker, Kubernetes)
+- **LLM & AI/ML** (RAG, Langchain, OpenAI, NLP)
+- **Python Development** (FastAPI, Flask, Web Scraping, Automation)
+- **Backend Development** (RESTful APIs, GraphQL, Microservices)
+- **Frontend Engineering** (Next.js, Tailwind CSS, MUI, Redux)
 
-<h2>[MERN Stack]</h2>
-<p>I am an experienced developer with a solid background in software development, using MERN stack. I have worked on coding and business start-up projects related to the MERN stack.</p>
-
-<ul>
-    <li>✓ Smart Contract Development
-        <ul>
-            <li>Design Landing Pgaes of websites.</li>
-            <li>Set backend and front End Funactionalitis on them </li>
-        </ul>
-    </li>
-</ul>
-
-<h2>[Full Stack Development]</h2>
-<p>I have extensive experience in full stack development, working with various technologies and frameworks to build robust applications.</p>
-
-<ul>
-    <li>✓ React, Node.js, Express
-        <ul>
-            <li>Building scalable and performant web applications.</li>
-            <li>Creating RESTful APIs and integrating with frontend frameworks.</li>
-            <li>Utilizing modern libraries and tools like Redux, Webpack, Babel.</li>
-        </ul>
-    </li>
-    <li>✓ Python Flask
-        <ul>
-            <li>Developing backend services and APIs.</li>
-            <li>Fast automation and scripting for various tasks.</li>
-            <li>Integrating with databases and third-party services.</li>
-        </ul>
-    </li>
-</ul>
-
-
-### - Languages and Tools...
-
+## 💻 Tech Stack & Tools
 <p align="center">
-
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  
-  [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  
-  [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/Timon0305)
-  
-  [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/Timon0305)
-  [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-  [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/Timon0305) 
-  
-  [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/Timon0305)
-  [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/Timon0305)
-
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/-NodeJS-green?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker" />
+  <img src="https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/-FastAPI-green?style=flat&logo=fastapi" />
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Asad-Ghafoor}/count.svg" alt="Asad-Ghafoor :: Visitor's Count" /></p>
-
-<h4 align="center">GitHub Statistics:</h4>
+## 📈 GitHub Stats
 <p align="center">
-<a href="https://github.com/Asad-Ghafoor">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Asad-Ghafoor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asad-Ghafoor&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=Asad-Ghafoor&theme=radical&hide_border=true)
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Asad-Ghafoor&show_icons=true&include_all_commits=true&theme=radical" alt="Asad-Ghafoor's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-Ghafoor&layout=compact&theme=radical" />
-
-
-
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Asad-Ghafoor&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asad-Ghafoor&theme=radical&hide_border=true"/>
 </p>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Asad-Ghafoor&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
-##  📊 Stats
-
-[![Metrics](https://metrics.lecoq.io/Asad-Ghafoor?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/Asad-Ghafoor)
-
-
-<div  align="center">
-<h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<br />
- <div align="left">
-<p>
-Skype - https://join.skype.com/invite/pLR8v0xgqwh7
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://join.skype.com/invite/pLR8v0xgqwh7">Skype</a>
 </p>
-<p>
-<!-- Outlook - <a href="mailto:timon0305@outlook.com">timon0305@outlook.com</a> -->
-</p>
-</div>
-</div>
