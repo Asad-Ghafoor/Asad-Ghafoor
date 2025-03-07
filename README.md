@@ -5,15 +5,35 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+a+Senior+Software+Developer;Cloud+Architect+and+MERN+Stack+Developer...;Expert+in+LLM,+RAG,+Langchain...;Enhancing+User+Experiences)](https://git.io/typing-svg)
 
 ## 🚀 About Me
-I am a **Senior Software Developer** and **Cloud Architect**, specializing in **MERN Stack Development**, **Python**, and **LLM-based applications**. My expertise lies in designing scalable solutions, leveraging AI and automation to enhance user experiences, and driving business growth through innovative technology.
+I am a **Senior Software Developer** and **Cloud Architect** with over **3 years of experience**, specializing in **MERN Stack Development**, **Python**, **AWS**, and **LLM-based solutions**. I excel at designing secure, scalable applications, integrating AI-driven functionalities, and optimizing cloud architectures to enhance business operations.
 
-### 🔥 Technical Expertise
-- **MERN Stack Development** (MongoDB, Express.js, React, Node.js)
-- **Cloud Architecting** (AWS, Azure, Docker, Kubernetes)
-- **LLM & AI/ML** (RAG, Langchain, OpenAI, NLP)
-- **Python Development** (FastAPI, Flask, Web Scraping, Automation)
-- **Backend Development** (RESTful APIs, GraphQL, Microservices)
-- **Frontend Engineering** (Next.js, Tailwind CSS, MUI, Redux)
+## 🎯 Key Expertise
+- **Full Stack Development** (MERN, Next.js, Tailwind CSS, MUI)
+- **Cloud Architecting** (AWS Cognito, Lambda, S3, EC2, Azure)
+- **AI & LLM Solutions** (Langchain, RAG, NLP, OpenAI, Web Scraping)
+- **Backend Engineering** (Node.js, Express.js, FastAPI, Flask, RESTful APIs, GraphQL)
+- **Frontend Development** (React, Vue.js, WebRTC, AI Integrations)
+- **Database Management** (MongoDB, SQL, PostgreSQL, Supabase)
+- **Automation & DevOps** (Docker, CI/CD, Kubernetes, Server Management)
+
+## 🌟 Featured Projects
+### 🔹 [VocaLiv](https://vocaliv.com) - MERN & AI-powered Educational Platform
+- Developed AI-driven modules for **AI Teacher, AI Exam Buddy, Classroom Monitoring, PDF Assistant, Speech-to-Text, and Text-to-Speech**.
+- Worked as **Frontend & Backend Developer** integrating AI models.
+
+### 🔹 [Tenants System](https://tenants.abark.com.pk) - MERN & IoT Application
+- Implemented a **door access control system** using third-party APIs.
+- Integrated **live video streams** from security cameras.
+- Role: **Full Stack Developer**.
+
+### 🔹 [eMeds](https://emeds.ca) - MERN & Python-based Web Scraper
+- Scraped **pharmacy product data** and displayed it dynamically.
+- Role: **Full Stack Developer & Web Scraper**.
+
+### 🔹 [VueWASM](https://vuewasm.abark.tech) - WebRTC & LLM Integration
+- Built a **proxy server with WebRTC for real-time communication**.
+- Integrated **WebLLM for AI interactions**.
+- Role: **Full Stack & AI Engineer**.
 
 ## 💻 Tech Stack & Tools
 <p align="center">
@@ -44,5 +64,9 @@ I am a **Senior Software Developer** and **Cloud Architect**, specializing in **
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://join.skype.com/invite/pLR8v0xgqwh7">Skype</a>
+  📧 Email: [asadghafoor2003@gmail.com](mailto:asadghafoor2003@gmail.com)<br>
+  🔗 GitHub: [github.com/Asad-Ghafoor](https://github.com/Asad-Ghafoor)<br>
+  🔗 LinkedIn: [linkedin.com/in/asad-ghafoor-2a1531269](https://linkedin.com/in/asad-ghafoor-2a1531269)<br>
+  📞 Phone: 03056989246<br>
+  📱 Skype: [Join me](https://join.skype.com/invite/pLR8v0xgqwh7)
 </p>
