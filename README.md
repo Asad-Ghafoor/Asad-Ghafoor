@@ -1,118 +1,96 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"></h1>
+# 👋 Hello! I'm Asad Ghafoor
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Senior+Full+Stack+%26+AI+Developer;LLMs+|+Langchain+|+RAG+|+MERN+Expert;Python+|+AWS+|+OCR+|+AI+Solutions;Transforming+Ideas+into+AI+Powered+Applications)](https://git.io/typing-svg)
+**Senior Full Stack & AI Developer** | MERN | LLMs | Python | AWS
 
----
-
-## 🚀 About Me
-I am a **Senior Full Stack & AI Developer** with over **3 years of experience** building secure, scalable, and intelligent applications. My expertise spans **MERN stack**, **Python**, **AWS**, **Langchain**, and **LLM-powered systems**. I specialize in integrating AI into real-world platforms, optimizing automation, and enhancing productivity through robust cloud-based solutions.
+Experienced engineer with 3+ years of hands-on expertise in building intelligent, scalable, and user-centric applications. I specialize in full stack web development, AI integrations (LLMs, Langchain, RAG), cloud architecture, and automation.
 
 ---
 
-## 🎯 Key Expertise
-✅ **Full Stack Development:** MERN, Next.js, Tailwind CSS, MUI, Redux  
-✅ **AI Engineering:** Langchain, RAGs, LLMs, NLP, OCR, Chatbots  
-✅ **Backend:** Node.js, Express.js, NestJS, FastAPI, Flask, GraphQL, REST APIs  
-✅ **Frontend:** React.js, Vue.js, HTML5, CSS3, Bootstrap, PWA, WebRTC  
-✅ **Databases:** MongoDB, PostgreSQL, Supabase, MySQL, Firebase  
-✅ **Cloud & DevOps:** AWS (EC2, S3, Route53, Amplify), GCP, Docker, Nginx  
-✅ **Tools & Tech:** Git, GitHub, Swagger, Postman, CI/CD, Socket.io  
-✅ **AI Use Cases:** Document Matching, Medical Redaction, OCR, AI Exam Bots
+## 🧠 Core Skills
+
+- **Frontend**: React.js, Next.js, Tailwind CSS, Material UI, HTML5, CSS3  
+- **Backend**: Node.js, Express.js, NestJS, FastAPI, Flask, REST APIs, GraphQL  
+- **AI/ML**: Langchain, RAG, LLMs, OCR, NLP, Chatbots  
+- **Databases**: MongoDB, PostgreSQL, MySQL, Supabase, Firebase  
+- **Cloud & DevOps**: AWS (EC2, S3, Cognito, Route53), GCP, Docker, Nginx  
+- **Tools**: Git, GitHub, Postman, Swagger, CI/CD, Socket.IO  
+- **Soft Skills**: Problem Solving, Team Collaboration, Client Communication
 
 ---
 
-## 🌟 Featured Projects
+## 💼 Professional Experience
 
-### 🔹 [VocaLiv](https://vocaliv.com)
-**AI-Powered Learning Platform**
-- Developed features like **AI Teacher, PDF Assistant, AI Exam Buddy, and real-time classroom monitoring**.
-- Enabled **automated quiz generation**, **speech-to-text**, and **content creation** with LLMs.
+**Full Stack & AI Engineer – Ab {Ark} Pvt Ltd**  
+*Mar 2024 – Present | Lahore, PK*  
+- Developed AI-powered systems using Python, FastAPI, Langchain, and RAGs  
+- Trained LLMs and built end-to-end solutions for document automation and AI bots  
+- Designed scalable MERN-based web platforms with integrated AI components
 
-### 🔹 [ONtezo](https://ontezo.com)
-**AI-Based Business & Project Management**
-- Integrated **automated story writing**, **AI analytics**, and **collaboration tools**.
-- Designed scalable backend with FastAPI and frontend with React.
+**MERN Stack Developer – EWDTech**  
+*Jul 2023 – Mar 2024 | Faisalabad, PK*  
+- Delivered responsive, scalable MERN applications  
+- Built dynamic UIs and REST APIs for multiple client projects
 
-### 🔹 [Scanzo](https://scanzo.ai)
-**AI-Driven OCR & Document Automation**
-- Created a system to **scan, extract, and validate documents** in <5 seconds with 99% accuracy.
-- Integrated **multi-language OCR**, **bulk processing**, and **AI-enhanced image preprocessing**.
-
-### 🔹 [Quri AI](https://quri.ai)
-**AI for Clinical Research**
-- Developed modules like **StudyMatch AI**, **AI Scout**, **MRLink**, and **RedactAI**.
-- Built secure, HIPAA-compliant solutions for **medical record processing**, **redaction**, and **eligibility matching**.
-
-### 🔹 [Tenants System](https://tenants.abark.com.pk)
-**IoT + MERN App for Property Management**
-- Integrated **video surveillance**, **door control systems**, and **API-based access handling**.
-
-### 🔹 [eMeds](https://emeds.ca)
-**Pharma Web Scraper**
-- Built a web scraper with **dynamic UI rendering**, using **MERN + Python** stack.
-
-### 🔹 [VueWASM](https://vuewasm.abark.tech)
-**Real-time WebRTC & LLM App**
-- Built **AI chat interface with WebLLM**, **real-time media streaming**, and **WebSocket communication**.
-
-### 🔹 [Query AI](https://query.ai)
-**AI-Powered Redaction & Data Handling**
-- Automated sensitive info redaction using AI, Supabase, and Docker microservices.
-
-### 🔹 [Triptap](https://triptap.com)
-**Travel Portal Backend**
-- Integrated **AWS Cognito Auth**, **SMTP**, and **Viator API for travel activities**.
-
-### 🔹 [Findoc](https://findoc.py.abark.com.pk)
-**AI-Based Document Matching**
-- Built Stripe payment system and full-stack solution for AI-assisted file matching.
+**Intern > MERN Stack Developer – LogiGates**  
+*Aug 2022 – Jul 2023 | Faisalabad, PK*  
+- Contributed to real-world projects involving IoT and AI  
+- Learned fundamentals of scalable full stack architecture
 
 ---
 
-## 💻 Tech Stack & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-React-black?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-NextJS-black?style=flat&logo=next.js" />
-  <img src="https://img.shields.io/badge/-NodeJS-green?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/-Supabase-black?style=flat&logo=supabase" />
-  <img src="https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker" />
-  <img src="https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/-FastAPI-green?style=flat&logo=fastapi" />
-  <img src="https://img.shields.io/badge/-Langchain-blueviolet?style=flat" />
-  <img src="https://img.shields.io/badge/-LLM-orange?style=flat" />
+## 🚀 Selected Projects
+
+### 🔹 [VocaLiv](https://vocaliv.com)  
+AI-powered educational platform with features like:
+- AI teacher, PDF assistant, auto-generated quizzes, student monitoring  
+- Built using React, Node.js, OpenAI APIs, and MongoDB
+
+### 🔹 [Scanzo](https://scanzo.ai)  
+OCR platform for high-speed document processing:
+- 100+ document types, 99% accuracy, multi-language support  
+- Powered by Python, AI models, and Dockerized APIs
+
+### 🔹 [Quri AI](https://quri.ai)  
+HIPAA-compliant AI platform for clinical research:
+- Automates eligibility matching, redactions, and study tracking  
+- Integrated advanced AI reasoning and secure file sharing
+
+### 🔹 [ONtezo](https://ontezo.com)  
+AI project management tool:
+- Auto-generates user stories, documentation & insights  
+- Combines React, FastAPI, Supabase
+
+### 🔹 [Tenants System](https://tenants.abark.com.pk)  
+Smart property management system with live camera feeds and door access integration.
+
+### 🔹 [Triptap](https://triptap.com)  
+Backend integrations using AWS Cognito, Viator API, and SMTP-based email handling.
+
+---
+
+## 🏅 Recognition
+
+- **Hardworker of the Year – Ab {Ark} Pvt Ltd (2024)**  
+  Awarded for outstanding performance in AI development, automation, and full stack delivery.
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [asadghafoor2003@gmail.com](mailto:asadghafoor2003@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/asad-ghafoor-2a1531269](https://linkedin.com/in/asad-ghafoor-2a1531269)  
+- 🌐 Portfolio: [asadghafoor.netlify.app](https://asadghafoor.netlify.app)  
+- ☎️ Phone: 0305-6989246  
+- 💬 Skype: [Join Chat](https://join.skype.com/invite/pLR8v0xgqwh7)
+
+---
+
+## 📊 GitHub Insights
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asad-Ghafoor&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-Ghafoor&layout=compact" width="48%" />
 </p>
 
 ---
 
-## 🏆 Awards
-- 🏅 **Hardworker of the Year – Ab {Ark} Pvt Ltd (2024)**  
-  *For excellence in AI integration, automation, and full-stack delivery.*
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Asad-Ghafoor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asad-Ghafoor&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asad-Ghafoor&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-📧 Email: [asadghafoor2003@gmail.com](mailto:asadghafoor2003@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/asad-ghafoor-2a1531269](https://linkedin.com/in/asad-ghafoor-2a1531269)  
-🌍 Portfolio: [asadghafoor.netlify.app](https://asadghafoor.netlify.app)  
-📱 Skype: [Join me](https://join.skype.com/invite/pLR8v0xgqwh7)  
-📞 Phone: 03056989246  
-
----
