@@ -87,9 +87,13 @@ Backend integrations using AWS Cognito, Viator API, and SMTP-based email handlin
 
 ## 📊 GitHub Insights
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asad-Ghafoor&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-Ghafoor&layout=compact" width="48%" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Asad-Ghafoor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asad-Ghafoor&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asad-Ghafoor&theme=radical&hide_border=true"/>
 </p>
 
 ---
