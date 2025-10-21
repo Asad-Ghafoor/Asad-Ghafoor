@@ -1,40 +1,71 @@
 # 👋 Hello! I'm Asad Ghafoor
 
-**Senior Full Stack & AI Developer** | MERN | LLMs | Python | AWS
-
-Experienced engineer with 3+ years of hands-on expertise in building intelligent, scalable, and user-centric applications. I specialize in full stack web development, AI integrations (LLMs, Langchain, RAG), cloud architecture, and automation.
+**Senior Full Stack & AI Engineer**  
+🚀 MERN | Python | FastAPI | Flask | LangChain | RAG | Generative AI | AWS | Kubernetes  
 
 ---
 
-## 🧠 Core Skills
+## 🧩 About Me
 
-- **Frontend**: React.js, Next.js, Tailwind CSS, Material UI, HTML5, CSS3  
-- **Backend**: Node.js, Express.js, NestJS, FastAPI, Flask, REST APIs, GraphQL  
-- **AI/ML**: Langchain, RAG, LLMs, OCR, NLP, Chatbots  
-- **Databases**: MongoDB, PostgreSQL, MySQL, Supabase, Firebase  
-- **Cloud & DevOps**: AWS (EC2, S3, Cognito, Route53), GCP, Docker, Nginx  
-- **Tools**: Git, GitHub, Postman, Swagger, CI/CD, Socket.IO  
-- **Soft Skills**: Problem Solving, Team Collaboration, Client Communication
+I'm a **results-driven engineer** with **5+ years of experience** in architecting intelligent, scalable, and cloud-native systems.  
+My passion lies in merging **AI and full-stack engineering** to build systems that automate, optimize, and empower decision-making.  
+
+I specialize in developing **AI-integrated platforms**, **microservice-based architectures**, and **end-to-end automation pipelines** powered by **LLMs, RAG, and OCR technologies**.  
+
+💡 My core philosophy:  
+> “Technology should simplify complexity — not create it.”  
+
+---
+
+## 🧠 Core Expertise
+
+### ⚙️ Backend & System Design
+- Node.js, Express.js, NestJS, FastAPI, Flask  
+- REST APIs, GraphQL, Microservices, Event-Driven Architecture  
+- Prisma, TypeORM, Sequelize, Mongoose, SQLAlchemy  
+- Kafka, Redis, WebSockets, Nginx  
+
+### 💻 Frontend Engineering
+- React.js, Next.js, Tailwind CSS, Material UI, HTML5, CSS3  
+- State Management (Redux, Context, Hooks)  
+- Responsive & Scalable UI Development  
+
+### 🧠 AI, ML & Automation
+- LangChain, LangGraph, RAG Pipelines  
+- Generative AI (LLMs, GPT Models, Prompt Engineering)  
+- OCR & Document Intelligence (UNet, CNNs)  
+- NLP-based Chatbots & AI Assistants  
+
+### 🗄️ Databases & Vector Stores
+- MongoDB, PostgreSQL, MySQL, Firebase, Supabase  
+- FAISS, ChromaDB, SQLAlchemy  
+
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3, SES, Cognito, Route53)  
+- Docker, Kubernetes, Jenkins, CI/CD Pipelines  
+- Cloud Infrastructure Automation & Monitoring  
 
 ---
 
 ## 💼 Professional Experience
 
-**Full Stack & AI Engineer – Ab {Ark} Pvt Ltd**  
+### **Senior Full Stack & AI Engineer** – Ab {Ark} Pvt Ltd  
 *Mar 2024 – Present | Lahore, PK*  
-- Developed AI-powered systems using Python, FastAPI, Langchain, and RAGs  
-- Trained LLMs and built end-to-end solutions for document automation and AI bots  
-- Designed scalable MERN-based web platforms with integrated AI components
+- Designed and deployed **AI-driven GRC systems** using FastAPI, LangChain, and RAG.  
+- Developed **OCR-based document analysis** and compliance automation pipelines.  
+- Built **microservices with Kafka, Kubernetes**, and CI/CD workflows via Jenkins.  
+- Integrated **Generative AI assistants** for document processing and workflow automation.
 
-**MERN Stack Developer – EWDTech**  
+### **Full Stack Engineer** – EWDTech  
 *Jul 2023 – Mar 2024 | Faisalabad, PK*  
-- Delivered responsive, scalable MERN applications  
-- Built dynamic UIs and REST APIs for multiple client projects
+- Delivered high-performing **MERN applications** with secure REST APIs and dynamic UIs.  
+- Implemented **AWS-based mailing systems** using SES and automated pipelines.  
+- Contributed to **end-to-end deployments** and real-time collaboration features.
 
-**Intern > MERN Stack Developer – LogiGates**  
+### **MERN Stack Developer** – LogiGates  
 *Aug 2022 – Jul 2023 | Faisalabad, PK*  
-- Contributed to real-world projects involving IoT and AI  
-- Learned fundamentals of scalable full stack architecture
+- Built full-stack IoT-integrated applications.  
+- Learned and applied **microservice architecture** and **scalable backend design**.
 
 ---
 
